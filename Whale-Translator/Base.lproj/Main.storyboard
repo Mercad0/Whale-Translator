@@ -38,6 +38,10 @@
                                             </label>
                                         </subviews>
                                         <color key="backgroundColor" red="0.57058551749999997" green="0.92380012320000005" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="426" id="HZb-x8-ry4"/>
+                                            <constraint firstAttribute="width" constant="393" id="a0L-Xb-vje"/>
+                                        </constraints>
                                     </view>
                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="njL-LP-Fsf">
                                         <rect key="frame" x="0.0" y="426" width="393" height="426"/>
@@ -69,6 +73,10 @@
                                             </button>
                                         </subviews>
                                         <color key="backgroundColor" red="0.57058551749999997" green="0.92380012320000005" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="426" id="tDQ-b4-s1v"/>
+                                            <constraint firstAttribute="width" constant="393" id="zkb-bx-7rT"/>
+                                        </constraints>
                                     </view>
                                 </subviews>
                                 <color key="backgroundColor" red="0.57058551749999997" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
